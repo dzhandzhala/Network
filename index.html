@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Network Lesson Homework</title>
+	<link rel="stylesheet" href="style/stylesheet.css">
+	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Roboto" rel="stylesheet">
+
+</head>
+<body>
+	<header class="header">
+		<h1 class="title">Network Lesson Homework</h1>
+		<nav class="menu">
+			<ol>
+				<li><a href="#one">1. Read.</a></li>
+				<li><a href="#two">2. Play with Chrome Developers Toolkit (DevTools), and "Network" tab. </a></li>
+				<li><a href="#three">3. What are differences between HTTP version 1.0 and 1.1? </a></li>
+				<li><a href="#four">4. Use the "telnet" program. </a></li>
+				<li><a href="#five">5. Use actions on "Network" tab.  </a></li>
+				<li><a href="#six">6. Using the hurl.it: create a GET request to any website and analyze the response </a></li>
+				<li><a href="#seven">7. Using the hurl.it : the same as above task, but you need to create the "HEAD" requests </a></li>
+				<li><a href="#eight">8. What is the different with GET request? </a></li>
+				<li><a href="#nine">9. Find and show few (at least 5) resources, where POST method is used </a></li>
+				<li><a href="#ten">10. Using the Postman extension
+				set it up, if not installed yet and send 5 any requests (including HEAD, GET & POST) to any website </a></li>
+				<li><a href="#eleven">11. Find any free hosting that provides FTP accessgoogle "ftp free hosting", or "free hosting", etc </a></li>
+			</ol>
+		</nav>
+	</header>	
+
+	 <div class="container">
+	 	
+		<div id="one" class="task">
+			<h2 class="task-name">1. Read.</h2>
+			<a target="_blank" href="http://code.tutsplus.com/articles/chrome-dev-tools-networking-and-the-console--net-28167" class="link">Chrome Dev Tools: Networking and the Console</a>
+			<a target="_blank" href="https://developer.chrome.com/devtools/docs/network#network-panel-overview" class="link">Measure Resource Loading Times</a>
+
+
+		</div>
+		<div id="two" class="task">
+			<h2 class="task-name">2. Play with Chrome Developers Toolkit (DevTools), and "Network" tab.</h2>
+			<a target="_blank" class="link" href="https://www.deezer.com/ru/">Deezer</a>
+			<img src="img/2deezer.png" alt="deezer" class="img-block">
+			<a target="_blank" class="link" href="https://www.facebook.com/">Facebook</a>
+			<img src="img/2fb.png" alt="fb" class="img-block">
+			<a target="_blank" class="link" href="">OLX</a>
+			<img src="img/olx.png" alt="olx" class="img-block">
+			<a target="_blank" class="link" href="https://prom.ua/">Prom</a>
+			<img src="img/prom.png" alt="prom" class="img-block">
+			<a target="_blank" class="link" href="https://rozetka.com.ua/">Rozetka</a>
+			<img src="img/rozetka.png" alt="rozetka" class="img-block">
+			List of Headers
+			<img class="img-block" src="img/list of headers.png" alt="headers">
+
+
+		</div>
+		<div id="three" class="task">
+			<h2 class="task-name">3. What are differences between HTTP version 1.0 and 1.1?</h2>
+			<h4>1. list of differences between 1.0 and 1.1</h4>
+			<p><strong>HTTP 1.0</strong> : <br> відкриває нове підключення для кожного запиту / відповіді. І після кожної відповіді зв'язок буде закритий. <br>
+	<strong>HTTP 1.1</strong> : <br>
+	 дозволяє обслуговувати кілька доменів з єдиної IP-адреси. <br>
+	дозволяє веб-браузеру відправляти кілька запитів через одне постійне з'єднання <br>
+	економія пропускної здатності, оскільки, додалася підтримка кешу.
+</p> <br>
+<h4>2. answer to question - how to pass user-data via GET? via POST? what is the diff?</h4>
+<p> <strong>GET</strong> призначений для отримання даних з сервера, обробляються дані на стороні сервера швидше за рахунок пустого тіла запиту, GET передає дані серверу використовуючи URL, запит можна зберегти, може кешуватися, не розриває HTTP з'єднання. <br>
+<strong>POST</strong> використовується для відправлення даних і передає дані, що підлягають обробці (наприклад, з форми HTML) в ідентифікований ресурс, дані включені в тіло http запиту, тому на стороні серверу обробляються дані повільніше, розриває HTTP з'єднання. <br>
+ Передача даних методом POST більш безпечна, ніж GET, так як секретні дані (пароль) не відображаються безпосередньо в web-клієнті користувача, коли URL – видно майже завжди).
+</p> <br>
+<h4>3. few samples of websites (and cases) where POST method is used</h4>
+<p>
+<a target="_blank" href="https://www.facebook.com/">https://www.facebook.com/</a> - при реєстрації, авторизації, дописах </p><br>	
+<p>Request URL: https://www.facebook.com/ads/growth/aymt/load_client_side_tips/?channel_name=AYMTWWWGroupsMallModalChannelrequest_id=id_0.11336627047972048_1521729981649params[group_id]=215862018990490dpr=1 <br>
+Request Method: POST <br>
+Status Code: 200 
+</p><br>
+	<a target="_blank" href="https://habrahabr.ru/top/">https://habrahabr.ru/top/</a> - авторизація, коментарі дописи</p> <br>
+	<p>Request URL: https://www.facebook.com/ajax/bz <br>
+Request Method: POST <br>
+Status Code: 200 <br>
+Remote Address: 31.13.81.36:443 <br>
+Referrer Policy: origin-when-cross-origin</p>
+
+
+
+		</div>
+		<div id="four" class="task">
+			<h2 class="task-name">4. Use the "telnet" program.</h2>
+	<img class="img-block" src="img/telnet1.jpg" alt="telnet">
+	<img class="img-block" src="img/telnet2.jpg" alt="telnet">
+	<img class="img-block" src="img/telnet3.jpg" alt="telnet">
+
+		</div>
+		<div id="five" class="task">
+			<h2 class="task-name">5. Use actions on "Network" tab.</h2>
+			<h4>describe what feature have you used, and how you can use it in future</h4>
+			<p>Використала Filter i Search – <strong>filter</strong> – сортує  все по типах, <strong>search</strong> – знаходить  потрібний елемент. Допоможе в майбутньому швидко знаходити потрібні файли (js, css, img) і моніторити їх розмір, швидкість завантаження, порядок завантаження а також їх статус.</p>
+		</div>
+		<div id="six" class="task">
+			<h2 class="task-name">6. Using the hurl.it: create a GET request to any website and analyze the response </h2>
+<img src="img/hurlit1.jpg" alt="hurlit" class="img-block">
+<img src="img/hurlit2.jpg" alt="" class="img-block">
+
+		</div>
+		<div id="seven" class="task">
+			<h2 class="task-name">7. Using the hurl.it : the same as above task, but you need to create the "HEAD" requests</h2>
+			<img src="img/hurlit21.jpg" alt="hurl" class="img-block">
+			<img src="img/hurlit22.jpg" alt="hurl" class="img-block">
+
+
+		</div>
+		<div id="eight" class="task">
+			<h2 class="task-name">8. What is the different with GET request?</h2>
+			<p>При запиті HEAD сервер не повертає вміст http-відповіді, є лише код відповіді і HTTP headers, а не сам документ. </p>
+			<img src="img/hurl get.png" alt="get" class="img-block">
+			<img src="img/hul head.png" alt="head" class="img-block">
+			
+
+
+		</div>
+		<div id="nine" class="task">
+			<h2 class="task-name">9. Find and show few (at least 5) resources, where POST method is used</h2>
+			<p>Можна визначити за допомогою <a href="https://www.hurl.it/">Hurl.it</a> надіслати запит POST або за допомогою DevTools у вкладці Network </p>
+			<a target="_blank" target="_blank" class="link" href="https://cursor.education/feedbacks">https://cursor.education/feedbacks</a>
+			<img src="img/post cursor.png" alt="cursor" class="img-block">
+			<a target="_blank" href="https://rozetka.com.ua/" class="link"https://rozetka.com.ua/>https://rozetka.com.ua/</a>
+			<img src="img/post rozetka.png"" alt="rozetka" class="img-block">
+			<a target="_blank" href=https://prometheus.org.ua/"" class="link">https://prometheus.org.ua/</a>
+			<img src="img/POST prometheus.png" alt="prometheus" class="img-block">
+			<a target="_blank" href="https://www.wikipedia.org" class="link">https://www.wikipedia.org</a>
+			<img src="img/POST wiki.png" alt="wikipedia" class="img-block" >
+			<a target="_blank" href="https://www.duolingo.com/" class="link">https://www.duolingo.com/</a>
+			<img src="img/post duo.png" alt="duo" class="img-block">
+
+
+		</div>
+		<div id="ten" class="task">
+			<h2 class="task-name">10. Using the Postman extension
+				set it up, if not installed yet and send 5 any requests (including HEAD, GET & POST) to any website </h2>
+			<img src="img/postman1.jpg" alt="" class="img-block">
+			<img src="img/postman2.jpg" alt="" class="img-block">
+			<img src="img/postman3.jpg" alt="" class="img-block">
+			<img src="img/postman4.jpg" alt="" class="img-block">
+			<img src="img/postman5.jpg" alt="" class="img-block">
+
+		</div>
+		<div id="eleven" class="task">
+			<h2 class="task-name">11. Find any free hosting that provides FTP accessgoogle "ftp free hosting", or "free hosting", etc</h2>
+			<a class="link" target="_blank" href="https://dzhandzhala.000webhostapp.com/">https://dzhandzhala.000webhostapp.com/</a>
+
+
+		</div>
+
+
+
+
+
+	 </div>
+
+ <footer class="bottom">
+	<h3>Dzhandzhala Olha</h3>
+ </footer>
+
+</body>
+</html>

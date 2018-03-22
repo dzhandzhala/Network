@@ -1,0 +1,35 @@
+Request URL: https://www.olx.ua/ivano-frankovsk/?utm_medium=cpc&utm_source=AdWords&utm_campaign=Brand@_OLX_Ivano_frankovsk_Branding_Search_Adwords_Desktop&utm_content=OLX&utm_term=%2Bolx&gclid=Cj0KCQjwqM3VBRCwARIsAKcekb1eqsNSsEKKy9N1AzF6rOT9SzhUC3saMl3-EnpXxaWqnvh1kHizClsaAqTNEALw_wcB
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 23.64.231.213:443
+Referrer Policy: origin
+Response Headers
+Cache-Control: max-age=0, no-cache, no-store
+Connection: keep-alive
+Content-Encoding: gzip
+Content-Length: 38188
+Content-Security-Policy: default-src * 'unsafe-eval' 'unsafe-inline' data:; frame-ancestors 'self' app.optimizely.com apps.facebook.com fonts.googleapis.com
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 22 Mar 2018 07:19:48 GMT
+Expires: Thu, 22 Mar 2018 07:19:48 GMT
+Pragma: no-cache
+Referrer-Policy: unsafe-url
+Set-Cookie: my_city_2=132_0_0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA_0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_ivano%3Afrankovsk; path=/; domain=.olx.ua
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-B: tablica-dc4-89
+X-Content-Type-Options: nosniff
+X-T: D=160155 t=1521703188524799
+X-Xss-Protection: 1
+Request Headers
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,uk;q=0.6
+Responce Headers
+Cache-Control: max-age=0
+Connection: keep-alive
+Cookie: PHPSESSID=rjf8p1pji5siv27m5d7ic8mle7; mobile_default=desktop; dfp_segment_test=9; dfp_segment_test_v2=54;
+Host: www.olx.ua
+Referer: https://www.google.com.ua/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36

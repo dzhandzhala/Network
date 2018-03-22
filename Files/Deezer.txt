@@ -1,0 +1,37 @@
+Request URL: https://www.deezer.com/ru/
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 185.60.92.33:443
+Referrer Policy: origin
+
+Response Headers
+
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Date: Thu, 22 Mar 2018 07:23:24 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Link: <https://e-cdns-files.dzcdn.net/cache/js/manifest.d9385a12d97d539a5a49.js>; as="script"; rel="preload"; nopush, <https://e-cdns-files.dzcdn.net/cache/js/legacy.b26a60625593b078e8bc.js>; as="script"; rel="preload"; nopush, <https://e-cdns-files.dzcdn.net/cache/js/app-web.a403b3d178b163228a9e.js>; as="script"; rel="preload"; nopush, <https://e-cdns-files.dzcdn.net/cache/css/sass_c/app-web.213d59d24041ceb15c34fcebb079ba53.css>; as="style"; rel="preload"; nopush
+P3P: policyref="/w3c/p3p.xml" CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+Pragma: no-cache
+Server: Apache
+Set-Cookie: sid=frd8d7dbbc072f990ce0ebf1e81f1c47dfff4d03; path=/; domain=.deezer.com; HttpOnly
+Set-Cookie: dzr_uniq_id=dzr_uniq_id_fr025d7b43d97a4196d91216b89da44960a86edf; expires=Tue, 18-Sep-2018 07:23:24 GMT; Max-Age=15552000; path=/; domain=.deezer.com
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Host: blm-web-05
+X-UA-Compatible: IE=edge,chrome=1,requiresActiveX=true
+
+Request Headers
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,uk;q=0.6
+Cache-Control: max-age=0
+Connection: keep-alive
+Cookie: sid=frd8d7dbbc072f990ce0ebf1e81f1c47dfff4d03; dzr_uniq_id=dzr_uniq_id_fr025d7b43d97a4196d91216b89da44960a86edf; _ga=GA1.2.1174459452.1518452957; cto_lwid=783372eb-8c0f-4996-81ae-ef4deac7c85d; fbm_241284008322=base_domain=.deezer.com; G_ENABLED_IDPS=google; comeback=1; ab.storage.userId.5ba97124-1b79-4acc-86b7-9547bc58cb18=%7B%22g%22%3A%221397604702%22%2C%22c%22%3A1518452977216%2C%22l%22%3A1518452977216%7D; ab.storage.deviceId.5ba97124-1b79-4acc-86b7-9547bc58cb18=%7B%22g%22%3A%223557a641-6d74-a980-303a-9ff3bb7d4e15%22%2C%22c%22%3A1518452977236%2C%22l%22%3A1518452977236%7D; arl=2c6cd597e02712106b918708db84e40c055e549611c233cb60bcf480bfcd1318fc4e090436339c415219b17336f7670f8b6345241be22df68d0057f105c512f16366c93d54fb6129a52d2fc911203b0186ffaa55055547c2ccdfed51b41f019c; _gid=GA1.2.977260938.1521703095; ab.storage.sessionId.5ba97124-1b79-4acc-86b7-9547bc58cb18=%7B%22g%22%3A%22871b823f-8bd7-ee10-8dc1-cd120ccb6609%22%2C%22e%22%3A1521704967314%2C%22c%22%3A1521703095092%2C%22l%22%3A1521703167314%7D; fbsr_241284008322=1EvzbyCJsFmfkACQmsaANPtANsZ--NsYqjWjUxIHVKY.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImNvZGUiOiJBUUNheGJTYnh3Q0hjc0hCRV9GX2o3M1ZXV2NyR05KTmt4eTN5QVQ5bDJWZS1Nb0lLM3B0VERjTTBoSnRRT3ktSXotQ3RGc1d4TUE1d3I2SGFzeUx0Y2IxUTRsdWtIX0tNejBhOUhMWGprTmx5ZThmTmFLSGJheWk4UWR1bUd5NXRwWTdGT190Qjk4Mm03N0pNeDBGMW5wZ0RJSlFma2poeEVPWWgyMHA5Q25qZEduVUFUX3hZaXFFZ0VNajRPS3VfNkVxXzJzcUtoVy1IQzg5cEw0N1FldGtwRWVNRzQwQW02Z3BlZVdVSWxkSnB5T0lMdHptTjZqeUo0NFF3SHB0Si1fa1hXUHlucmtyT2w0ckhkbzg0NExzUWFoV19FeHhIYXBrNXlILUlrYXZDMmU2YzVzTTNPR1ptWDZ0VDByS1Q3WSIsImlzc3VlZF9hdCI6MTUyMTcwMzE4MSwidXNlcl9pZCI6IjE3OTEyNjIzMDExOTY4OTMifQ
+Host: www.deezer.com
+Referer: https://www.google.com.ua/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36

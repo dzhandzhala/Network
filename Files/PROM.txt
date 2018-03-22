@@ -1,0 +1,30 @@
+Request URL: https://prom.ua/
+Request Method: GET
+Status Code: 200 
+Remote Address: 193.34.169.16:443
+Referrer Policy: origin
+Response Headers
+cache-control: no-cache
+content-encoding: gzip
+content-type: text/html; charset=utf-8
+date: Thu, 22 Mar 2018 07:19:40 GMT
+pragma: no-cache
+server: nginx/1.12.2
+set-cookie: csrf_token=a6bc8d35146b48628b2680ee62f1380b; Domain=.prom.ua; Max-Age=31449600; Path=/; expires=Thu, 21-Mar-2019 07:19:40 GMT
+status: 200
+strict-transport-security: max-age=31104000
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+Request Headers
+:authority: prom.ua
+:method: GET
+:path: /
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+accept-encoding: gzip, deflate, br
+accept-language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,uk;q=0.6
+cache-control: max-age=0
+cookie: cid=280485572625394189552464889326578418400; user_tracker=103c3355c3a12e96a83135c1ddbeace30ced8c3f|95.134.4.107|2018-03-21; region_id=194; csrf_token=a6bc8d35146b48628b2680ee62f1380b; auth=624a291f96254ea9c26722edf0b6984ce2fc6817; unauth=5dc3e421aed20b5b84322fcda91c88760446275c; ext_referer=aHR0cHM6Ly9wcm9tLnVhLw==; prom=d558047303dc562e6576456d9ec16c84ed3061ccdf4ff901ca084d129f0cef1ddad18fcc; _ga=GA1.2.c-dCqdwziLdlbKrQXKMhSv4SlJ; _gid=GA1.2.201891620.1521647313; cto_lwid=25b8e5c9-da4b-4f5a-a6f6-e3e274d6c33f; __io_r=https%3A%2F%2Fwww.google.com.ua%2F; __io_first_source=google; __io_visit_pageviews_flag=1; __io_moon_utm=io_source%7D%3A%7B%7D*%7Bio_utm%7D%3A%7B%7D*%7Bsource%7D%3A%7Bgoogle%7D*%7Bmedium%7D%3A%7B%7D*%7Bcampaign%7D%3A%7B%7D*%7Bterm%7D%3A%7B%7D*%7Bcontent%7D%3A%7B; __io=5ce069f83.032375c09_1521647319645; _gat_main=1; __io_visit_pageviews=1; __io_v_pv_22.google.com.ua=1; __io_lv=1521703173892
+referer: https://www.google.com.ua/
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36

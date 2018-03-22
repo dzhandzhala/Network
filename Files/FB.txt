@@ -1,0 +1,37 @@
+Request URL: https://www.facebook.com/
+Request Method: GET
+Status Code: 200 
+Remote Address: 31.13.81.36:443
+Referrer Policy: no-referrer-when-downgrade
+
+Response Headers
+
+cache-control: private, no-cache, no-store, must-revalidate
+content-encoding: br
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+content-type: text/html; charset=UTF-8
+date: Thu, 22 Mar 2018 07:19:34 GMT
+expect-ct: max-age=10, report-uri="http://reports.fb.com/expectct/"
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+pragma: no-cache
+status: 200
+strict-transport-security: max-age=15552000; preload
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-fb-debug: 1KNJPsRWYD3/47/J5F2aA7kgoHN9RfCqPcsIN8oNk06jjFVAHjXAT66HTl4MdyPE8C9Ph+hgmNbcjUd7Uy4x6w==
+x-frame-options: DENY
+x-xss-protection: 0
+
+Request Headers
+
+:authority: www.facebook.com
+:method: GET
+:path: /
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+accept-encoding: gzip, deflate, br
+accept-language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,uk;q=0.6
+cache-control: max-age=0
+cookie: sb=Nw12WpEAAs3iQCsR28IS056s; datr=Og12Wo7jqN68uSeCaMjlxWOP; c_user=100009394212101; xs=31%3AS-i8h3WsD-k-8g%3A2%3A1517686090%3A10471%3A15711; pl=n; ; m_pixel_ratio=1; act=1521662857309%2F1; fr=0a1xu3R09N6zScWhz.AWXxh2eGJf6AiT2cWOjJ4OM7PGs.Badg03.0-.Fqk.0.0.Bas1iB.AWVuY_p8; presence=EDvF3EtimeF1521703165EuserFA21B09394212101A2EstateFDutF1521703165937CEchFDp_5f1B09394212101F8CC; wd=1366x150
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36

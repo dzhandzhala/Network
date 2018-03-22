@@ -1,0 +1,35 @@
+Request URL: https://rozetka.com.ua/main_popular_goods/action=getPopularGoodsAJAX;unit_id=2/
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 89.184.81.213:443
+Referrer Policy: no-referrer-when-downgrade
+
+Response Headers
+
+Connection: keep-alive
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 22 Mar 2018 07:19:48 GMT
+Keep-Alive: timeout=75
+Server: nginx
+Transfer-Encoding: chunked
+X-Backend: rz-app22
+X-Cache: main_cache
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+
+Request Headers
+
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,uk;q=0.6
+Connection: keep-alive
+Cookie: D_SID=95.134.4.107:17++Jlq8AsHuvsCaeyllAvS47MDaOJDTJmpm2DQC3NE; af_source=adwords; uid=rB4eB1qyb9kZaIiOCjW3Ag==; device_type=computer; slang=ru; geoip_not_found=true; _ga=GA1.3.1936956980.1521643485; _gid=GA1.3.792741309.1521643485; mini_cart_block_state=%22maximized%22; mini_waitlist_available_block_state=%22maximized%22; __utmc=28000675; _gac_UA-203518-1=1.1521643488.CjwKCAjwhcjVBRBHEiwAoDe5x7yh8EGqccziDRJYbgPLSBxglPGSYjDSvFLCOEIzvGMWXORr2hcjjxoCpyEQAvD_BwE; __gads=ID=290b37847799d00e:T=1521643490:S=ALNI_MaffhU5jHcrPQPSCVhyQ6ngqsJtkw; __exponea_etc__=536ec43c-c98a-4416-a0b0-c7920692f6f7; __utmz_gtm=utmcsr=google|utmccn=adwords|utmcmd=cpc; cto_lwid=bb2b7c21-4663-49f5-80bc-abce44c9847e; __utmz=28000675.1521650279.2.2.utmgclid=CjwKCAjwhcjVBRBHEiwAoDe5x7yh8EGqccziDRJYbgPLSBxglPGSYjDSvFLCOEIzvGMWXORr2hcjjxoCpyEQAvD_BwE|utmccn=(not%20set)|utmcmd=(not%20set); D_IID=2EFAE262-953B-3ACA-BDCE-8583A0BF1C46; D_UID=D7E28C4A-17F0-3F58-B5E5-3927F6EA447C; _gac_UA-203518-6=1.1521651729.CjwKCAjwhcjVBRBHEiwAoDe5x7yh8EGqccziDRJYbgPLSBxglPGSYjDSvFLCOEIzvGMWXORr2hcjjxoCpyEQAvD_BwE; _gac_UA-203518-10=1.1521651730.CjwKCAjwhcjVBRBHEiwAoDe5x7yh8EGqccziDRJYbgPLSBxglPGSYjDSvFLCOEIzvGMWXORr2hcjjxoCpyEQAvD_BwE; D_ZID=590507CE-5B47-385D-9480-4D3C148A9F22; D_ZUID=A6BE1C95-F822-3FC7-A2EB-F5CA504A3610; D_HID=28E86EE1-DCA1-30C5-B87D-104A53D167DD; holder=1; RT="sl=0&ss=1521664039613&tt=0&obo=0&bcn=%2F%2F36c3feee.akstat.io%2F&sh=&dm=rozetka.com.ua&si=3f6be7ce-3065-4df8-baf2-b85429669cbe&r=https%3A%2F%2Frozetka.com.ua%2Foffice-school-books%2Fc4625734%2F&ul=1521676390732&hd=1521676391709"; __utma=28000675.1936956980.1521643485.1521664046.1521703006.4; __utmt=1; __utmb=28000675.1.10.1521703006; href=https%3A%2F%2Frozetka.com.ua%2F; __exponea_time2__=1.5801420211791992
+Host: rozetka.com.ua
+Referer: https://rozetka.com.ua/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36
+X-Distil-Ajax: zbvswrddvzvutfdrrtvrrcusxusbdewcrbxrud
+x-request-token: 4debb3b041ec30861b368eb6c3d3bc4a
+X-Requested-With: XMLHttpRequest
+X-Rozetka-Header: true
